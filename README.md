@@ -30,32 +30,32 @@ I love crafting **pixel-perfect interfaces** 🎨 and writing clean, human-frien
 <tr>
 <td width="50%">
   
-### 🎓 EduTrack – Student Progress Tracking  
-A full-stack platform to track student progress.  
-🔗 [Live Demo](https://resplendent-cucurucho-4a6b8a.netlify.app/) | 💻 [Code](https://github.com/SakshiBiradar912/edutrack)
+### Modern Chair  
+An interactive product showcase that allows users to explore chair models with different colors and styles. Designed with a focus on modern UI/UX and responsive design.
+💻 [Code](https://github.com/SakshiBiradar912/Modern-chair)
 
 </td>
 <td width="50%">
   
 ### 🖼️ Gallery Showcase  
-A responsive gallery project with interactive previews.  
-🔗 [Live Demo](https://melodious-lamington-541477.netlify.app/) | 💻 [Code](#)
+A creative image gallery application where users can preview, enlarge, and interact with images. Built with clean layouts and smooth transitions for an engaging user experience.  
+💻 [Code](https://github.com/SakshiBiradar912/MyGallery)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🪑 Dynamic Chair Customizer  
-Customizes chair colors dynamically with modern UI.  
-💻 [Code](#)
+### Web Editor
+A lightweight web-based editor for writing and previewing code in real time. Focused on simplicity, productivity, and an intuitive interface for developers.
+💻 [Code](https://github.com/SakshiBiradar912/Web-Editor)
 
 </td>
 <td width="50%">
 
-### 🖱 Virtual Mouse  
-A fun project turning vision into a control tool.  
-💻 [Code](#)
+### Smart Task Management 
+A task management app to organize, track, and prioritize daily activities. Includes a clean dashboard, progress tracking, and a user-friendly interface for better productivity.
+💻 [Code](https://github.com/SakshiBiradar912/Smart-Task-Management)
 
 </td>
 </tr>
@@ -86,5 +86,8 @@ A fun project turning vision into a control tool.
   </a>
   <a href="mailto:biradarsakshi2921@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://kaleidoscopic-haupia-a2ae72.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
