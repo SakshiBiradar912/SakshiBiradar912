@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 3rd Year Computer Engineering Student  
+- 🎓 Final Year Computer Engineering Student  
 - 💻 Skilled in **Web Development (Frontend + Backend)**  
 - 🎨 Completed **Google UX Design Certificate**  
 - 🌟 Interested in **Full-Stack Development, Data Science, and Cloud Technologies**  
